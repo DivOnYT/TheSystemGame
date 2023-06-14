@@ -9,7 +9,7 @@ from classes.SplashScreen import SplashScreen
 from ursina.prefabs.radial_menu import RadialMenu, RadialMenuButton
 import __main__
 
-window.title = "Système Solaire par Côme d'Hérouville et Adrien Rousseau"
+window.title = "Système Solaire par Div_YT#7393"
 
 
 class Application(Ursina):
