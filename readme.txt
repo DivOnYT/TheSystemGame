@@ -10,3 +10,8 @@ Trucs à savoir:
     - Modulabilité du fov, des planète et de la représentation
     - SplashScreen moche mais fonctionnel
     - Mettre un casque pour rentrer dans l'ambience du jeu éducatif
+
+Requirements:
+ - Installer le moteur de jeu panda3D sur panda3D.org
+ - Installer ursina avec pip
+ - avoir python 3.8.9
